@@ -1,0 +1,16 @@
+C:\Users\Luiz Felipe\Desktop\TREINAMENTO C#\ListaExercicios01CSharp\exercicio01\obj\Debug\net5.0\exercicio01.csproj.AssemblyReference.cache
+C:\Users\Luiz Felipe\Desktop\TREINAMENTO C#\ListaExercicios01CSharp\exercicio01\obj\Debug\net5.0\exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Felipe\Desktop\TREINAMENTO C#\ListaExercicios01CSharp\exercicio01\obj\Debug\net5.0\exercicio01.AssemblyInfoInputs.cache
+C:\Users\Luiz Felipe\Desktop\TREINAMENTO C#\ListaExercicios01CSharp\exercicio01\obj\Debug\net5.0\exercicio01.AssemblyInfo.cs
+C:\Users\Luiz Felipe\Desktop\TREINAMENTO C#\ListaExercicios01CSharp\exercicio01\obj\Debug\net5.0\exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Felipe\Desktop\TREINAMENTO C#\ListaExercicios01CSharp\exercicio01\bin\Debug\net5.0\exercicio01.exe
+C:\Users\Luiz Felipe\Desktop\TREINAMENTO C#\ListaExercicios01CSharp\exercicio01\bin\Debug\net5.0\exercicio01.deps.json
+C:\Users\Luiz Felipe\Desktop\TREINAMENTO C#\ListaExercicios01CSharp\exercicio01\bin\Debug\net5.0\exercicio01.runtimeconfig.json
+C:\Users\Luiz Felipe\Desktop\TREINAMENTO C#\ListaExercicios01CSharp\exercicio01\bin\Debug\net5.0\exercicio01.runtimeconfig.dev.json
+C:\Users\Luiz Felipe\Desktop\TREINAMENTO C#\ListaExercicios01CSharp\exercicio01\bin\Debug\net5.0\exercicio01.dll
+C:\Users\Luiz Felipe\Desktop\TREINAMENTO C#\ListaExercicios01CSharp\exercicio01\bin\Debug\net5.0\ref\exercicio01.dll
+C:\Users\Luiz Felipe\Desktop\TREINAMENTO C#\ListaExercicios01CSharp\exercicio01\bin\Debug\net5.0\exercicio01.pdb
+C:\Users\Luiz Felipe\Desktop\TREINAMENTO C#\ListaExercicios01CSharp\exercicio01\obj\Debug\net5.0\exercicio01.dll
+C:\Users\Luiz Felipe\Desktop\TREINAMENTO C#\ListaExercicios01CSharp\exercicio01\obj\Debug\net5.0\ref\exercicio01.dll
+C:\Users\Luiz Felipe\Desktop\TREINAMENTO C#\ListaExercicios01CSharp\exercicio01\obj\Debug\net5.0\exercicio01.pdb
+C:\Users\Luiz Felipe\Desktop\TREINAMENTO C#\ListaExercicios01CSharp\exercicio01\obj\Debug\net5.0\exercicio01.genruntimeconfig.cache
